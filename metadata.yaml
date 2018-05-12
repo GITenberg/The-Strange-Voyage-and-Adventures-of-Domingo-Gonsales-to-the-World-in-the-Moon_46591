@@ -1,10 +1,16 @@
 _repo: The-Strange-Voyage-and-Adventures-of-Domingo-Gonsales-to-the-World-in-the-Moon_46591
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Godwin, Francis
     gutenberg_agent_id: '43868'
     url: http://www.gutenberg.org/2009/agents/43868
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46591#The-Strange-Voyage-and-Adventures-of-Domingo-Gonsales-to-the-World-in-the-Moon
 gutenberg_issued: '2014-08-15'
 gutenberg_type: Text
 identifiers:
